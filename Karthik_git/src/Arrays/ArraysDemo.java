@@ -9,7 +9,7 @@ public class ArraysDemo {
 
     }
     static int[] method2(int arr2[]){
-        System.out.println(" retuening");
+        //System.out.println(" retuening");
 
        // return new int[] {1,2,3};  
        return arr2;
