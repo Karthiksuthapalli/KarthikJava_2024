@@ -6,6 +6,7 @@ public class ArraysDemo {
 
     static void method(int arr1[]){
         System.out.println( "this is method   "+arr1[0]);
+        System.out.println("unnecessary");
 
     }
     static int[] method2(int arr2[]){
